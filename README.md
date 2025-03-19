@@ -16,7 +16,6 @@
 ### API Testing
 ![API Request Screenshot](https://github.com/yagnesh16697/node-prisma/blob/master/Screenshot%20from%202025-03-19%2022-22-18.png)
 
-### Prisma Studio
 ![Prisma Studio Screenshot](https://github.com/yagnesh16697/node-prisma/blob/master/Screenshot%20from%202025-03-19%2022-23-00.png)
 
 ### Swagger API Docs
